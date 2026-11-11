@@ -1,0 +1,10 @@
+{
+  "id": "team.human-review-inbox",
+  "name": "Human Review Inbox",
+  "apiVersion": 1,
+  "description": "Ask a teammate to review a Buzz message and record their decision in the original channel.",
+  "discovery": {
+    "category": "productivity",
+    "tags": ["Review", "Approvals", "Collaboration"]
+  }
+}
